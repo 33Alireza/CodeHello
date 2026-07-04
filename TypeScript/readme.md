@@ -1,7 +1,5 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
----
-
 ### TypeScript is an open-source, strongly-typed programming language developed and maintained by Microsoft. It is often described as a "superset" of JavaScript, meaning that any valid JavaScript code is also valid TypeScript code. However, TypeScript builds upon JavaScript by adding a powerful static type system and a suite of other advanced features designed for building large-scale, maintainable applications.
 
 ### The language was first released in 2012 by Microsoft, with Anders Hejlsberg (the creator of C#) as its lead architect. TypeScript was born out of a practical need: as web applications grew from simple scripts to complex enterprise-level systems, the dynamic, loosely-typed nature of JavaScript began to reveal its limitations. Errors that could have been caught early in development often surfaced only at runtime, making codebases difficult to manage, debug, and refactor.

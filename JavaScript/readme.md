@@ -1,7 +1,5 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
----
-
 ### JavaScript is a high-level, interpreted programming language that is fundamentally one of the core technologies of the World Wide Web. Alongside HTML and CSS, it forms the essential triad that powers the interactive and dynamic experiences we associate with modern websites. While HTML provides the structure of a webpage and CSS dictates its visual style, JavaScript is the engine that brings it to life.
 
 ### Originally developed in just ten days by Brendan Eich at Netscape in 1995, JavaScript was initially created to add simple interactivity to web browsers. It has since evolved far beyond its humble beginnings. Today, it is a versatile, multi-paradigm language that supports object-oriented, imperative, and functional programming styles. Its syntax is influenced by the C programming language, making it relatively accessible to developers with a background in languages like C++ or Java.
