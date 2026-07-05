@@ -45,7 +45,7 @@ CodeHello/
 Example: Running Python
 ```bash
 cd languages/python
-python main.py
+python hello.py
 Check each language folder for setup and execution instructions.
 ```
 
